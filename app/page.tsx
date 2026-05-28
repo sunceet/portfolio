@@ -405,6 +405,14 @@ export default function Home() {
               >
                 <span>sunceetpochta@mail.ru</span>
               </a>
+              <a
+                href="https://t.me/sunceet"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center gap-2 px-6 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-lg font-medium transition-colors"
+              >
+                <span>TG: @sunceet</span>
+              </a>
             </div>
           </div>
         </motion.section>
