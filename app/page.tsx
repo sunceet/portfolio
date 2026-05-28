@@ -279,6 +279,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
+            className="mb-12"
           >
             <div className="bg-zinc-900/50 rounded-xl p-6 sm:p-8">
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
@@ -328,6 +329,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
+            className="mb-12"
           >
             <div className="bg-zinc-900/50 rounded-xl p-6 sm:p-8">
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
@@ -414,7 +416,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="mt-20 pt-8 border-t border-zinc-800 text-center text-zinc-600 text-sm">
-          <p>© 2024 Сивцев Владислав. Все права защищены.</p>
+          <p>© 2026 Сивцев Владислав. Все права защищены.</p>
         </footer>
       </main>
       {lightbox && (
