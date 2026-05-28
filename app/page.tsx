@@ -393,12 +393,7 @@ export default function Home() {
               >
                 <span>+7 914 285-07-92</span>
               </a>
-              <a
-                href="mailto:vladnadro111@gmail.com"
-                className="flex items-center justify-center gap-2 px-6 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-lg font-medium transition-colors"
-              >
-                <span>vladnadro111@gmail.com</span>
-              </a>
+
               <a
                 href="mailto:sunceetpochta@mail.ru"
                 className="flex items-center justify-center gap-2 px-6 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-lg font-medium transition-colors"
